@@ -8,14 +8,14 @@ Predict score of students based on number of hours they study.\
 
 ## TASK 2: Prediction using unsupervised ML
 From 'iris' dataset predict optimum number of clusters and represent them visually.\
-Dataset Link- https://archive.ics.uci.edu/ml/datasets/iris
+[Dataset Link](https://archive.ics.uci.edu/ml/datasets/iris)
 
 ## TASK 3: Exploratory Data Analysis: Retail
 Perform EDA on dataset SampleSuperstore\
 
 ## TASK 4: Exploratory Data Analysis: Terorrism
-Perform EDA on Dataset Terrorism to identify "hot spots" of terrorism.
-Dataset Link- https://www.canva.com/link?target=https%3A%2F%2Fbit.ly%2F2TK5Xn5&design=DAEjrwWV35w
+Perform EDA on Dataset Terrorism to identify "hot spots" of terrorism.\
+[Dataset Link](https://www.canva.com/link?target=https%3A%2F%2Fbit.ly%2F2TK5Xn5&design=DAEjrwWV35w)
 
 ![image](https://user-images.githubusercontent.com/65697330/129884776-3e117bd3-666c-4de4-b534-207729c6f560.png)  
 
